@@ -18,7 +18,7 @@ The source of the PressMint-FR corpus is ..
   - copies: 
   - pages: 
   - words: 
-  - facimiles: 
+  - facsimiles: 
   
 * __Structure__: 
 
