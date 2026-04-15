@@ -64,5 +64,7 @@ Only daily and not local press will be included:
 
 ## Conversion plan
 
-- 
+```bash
+python convert.py --input_folder sources --output_folder tei
+```
 
