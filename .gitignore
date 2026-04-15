@@ -1,4 +1,6 @@
 tmp/
+.DS_Store
+*.DS_Store
 *.tmp
 *.gz
 *.zip
